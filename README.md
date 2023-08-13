@@ -14,6 +14,7 @@ This page can be used to see notes and pertinent links on teh following topics:
 <li>CSS</li>
 <li>Git</li>
 <li>JavaScript</li>
+</ul>
 
 You can also use the Console section of your broswers dev tool in order to see the topics, and have a topic randomly chosen for you. On a mac simply use Option-Command-I.
 
