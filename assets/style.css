@@ -6,9 +6,16 @@
 header,
 footer {
     width: 100%;
-    height: 160px;
     background-color: rgb(111, 11, 241);
     color: white;
+}
+
+header{
+    height: 200px;
+}
+
+footer{
+    height: 100px;
 }
 
 h1, h2 {
@@ -25,9 +32,15 @@ h2 {
     color: rgb(111, 11, 241);
 }
 
-h3 {
+h3, h4 {
     font-size: medium;
 }
+
+h4{
+    text-align: center;
+}
+
+
 
 img {
     display: block;
